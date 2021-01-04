@@ -1,4 +1,5 @@
 body{
+    margin: 0px;
     font-family: sans-serif;
 }
 
@@ -8,4 +9,20 @@ h1{
 }
 .saad{
     color: blue;
+}
+.sahil{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.sahil img{
+    width: 100%;
+}
+.pad{
+    background-image: url("imeges/top-banner.png");
+}
+section{
+    height: 500px;
+    background-repeat: no-repeat;
 }
