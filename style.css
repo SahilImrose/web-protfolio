@@ -7,6 +7,9 @@ h1{
 
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .saad{
     color: blue;
 }
@@ -19,7 +22,7 @@ h1{
 .sahil img{
     width: 100%;
 }
-.pad{
+.ami{
     background-image: url("imeges/top-banner.png");
 }
 section{
@@ -34,9 +37,9 @@ section{
     color: white;
     font-weight: 600;
 }
-.pada{
-    background-image: url("imeges/dream-bg.png");
-    height: 500px;
-    background-repeat: no-repeat;
+.dad{
+    background-image: url("dream-bg.png");
     background-position-x: right;
+    background-position-y: center;
+    
 }
